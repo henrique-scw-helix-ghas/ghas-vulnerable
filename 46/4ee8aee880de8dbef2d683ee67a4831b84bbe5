@@ -1,0 +1,19 @@
+requirements.txt
+  s_96ee0b8424fc84::t_304dc2ffc6f7c0 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "464ee8aee880de8dbef2d683ee67a4831b84bbe5",
+  "prompts": {},
+  "sessions": {
+    "s_96ee0b8424fc84": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_96ee0b8424fc84",
+        "model": "unknown"
+      },
+      "human_author": "Henrique Pureza <173741251+henrique-scw@users.noreply.github.com>"
+    }
+  }
+}
