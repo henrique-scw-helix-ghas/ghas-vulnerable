@@ -1,0 +1,19 @@
+report.py
+  s_f8bc32bf56d45e::t_73549bb1f1f75a 1-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a24f37bf090cecc2bee56e558b9b57956763e325",
+  "prompts": {},
+  "sessions": {
+    "s_f8bc32bf56d45e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2bcb6228-5643-451a-b157-7e6326b9f1c3",
+        "model": "unknown"
+      },
+      "human_author": "Henrique Pureza <173741251+henrique-scw@users.noreply.github.com>"
+    }
+  }
+}
