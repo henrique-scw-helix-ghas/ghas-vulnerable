@@ -1,0 +1,25 @@
+README.md
+  s_e655103c0db6d5::t_39636d83df3780 1-10
+app.py
+  s_e655103c0db6d5::t_9ade954b00308b 1-45
+package.json
+  s_e655103c0db6d5::t_216b42e50d7f66 1-10
+requirements.txt
+  s_e655103c0db6d5::t_3ee5c214493ba0 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "477567813fcedccade5878f6c1052da416ee084e",
+  "prompts": {},
+  "sessions": {
+    "s_e655103c0db6d5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4374a171-1bb2-4b3d-b5f3-d623ef5f505f",
+        "model": "unknown"
+      },
+      "human_author": "Henrique Pureza <173741251+henrique-scw@users.noreply.github.com>"
+    }
+  }
+}
